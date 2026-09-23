@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I am Diya Kamble 👋
 
-<!--
-**diya-kamble/diya-kamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer in progress | Curious learner | Problem solver
 
-Here are some ideas to get you started:
+Welcome to my corner of GitHub. I enjoy turning ideas into thoughtful, useful projects and improving through every build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🌱 I am growing my skills by building and learning every day.
+- 💡 I enjoy exploring new tools, solving practical problems, and creating clean experiences.
+- 🎯 I am focused on building a strong portfolio of meaningful work.
+
+## What you will find here
+
+This profile will grow with projects, experiments, and learning notes that reflect my journey as a developer.
+
+## Let us connect
+
+Feel free to explore my repositories, follow my work, or reach out through GitHub.
+
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=diya-kamble)
+
+*Small steps every day lead to meaningful progress.*
